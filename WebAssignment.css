@@ -1,0 +1,101 @@
+body{
+    background-color: #fceef5;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDF2840xHWUkzSNNtus0OjxuTgo9UqFlNbHg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 300% 200%;
+}
+
+.themoon{
+    width: 10%;
+    float: left;
+    font-size: 120%;
+    text-align: right;
+    text-decoration: none;
+    font-weight: 500;
+    margin: 3% auto;
+    line-height: 1.5;
+    margin-right: 4%;
+    color: #fcf876;
+    font-family: helvetica,arial;
+}
+.moonpic{
+    border-radius: 100%;
+    position: absolute;
+    left: 13%;
+    margin-top: 20px;
+}
+.headmoon{
+    margin-top: 2%;
+    color: #79d70f;
+    font-family: helvetica;
+    margin-left: 0.5%;
+    font-size: 500%;
+    font-weight: 500;
+}
+.thesenital{
+    width: 15%;
+    float: right;
+    font-size: 110%;
+    text-align: left;
+    text-decoration: none;
+    font-weight: 500;
+    margin:2% auto;
+    line-height: 1.5;
+    margin-right: 10%;
+    color: #6a097d;
+    font-family: helvetica,arial;
+}
+.headsenital{
+    margin-top: 10%;
+    color: #c060a1;
+    font-family: helvetica;
+    margin-left: 50%;
+    font-size: 500%;
+    font-weight: 500;
+}
+.senitalpic{
+    border-radius: 100%;
+    position: absolute;
+    right: 30%;
+    margin-top: 20px;
+    height: 35%;
+    width: 20%;
+}
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin-top: 10%;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#footer{
+    margin: 13% 2%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    position: absolute;
+    right: 20px;
+    top: 15%;
+    vertical-align: middle;
+}
+.col{
+    flex: 50%;
+    padding: 0 4px;
+}
